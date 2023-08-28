@@ -1,0 +1,204 @@
+{
+    "m_DNAConfig_Loot": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "proprietary",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "tools",
+            "dna_Type": "Pickaxe"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "material",
+            "dna_Type": "WoodenPlank"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "misc",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "medical",
+            "dna_Type": "BloodBagIV"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "PeachesCan_Opened"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Cola"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "tools",
+            "dna_Type": "Screwdriver"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "material",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "valuable",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "misc",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "tools",
+            "dna_Type": "Shovel"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "material",
+            "dna_Type": "FenceKit"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "valuable",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "misc",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "proprietary",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "BandageDressing"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "WaterBottle"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "tools",
+            "dna_Type": "WoodAxe"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "material",
+            "dna_Type": "TerritoryFlagKit"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "valuable",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "misc",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "Morphine"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan_Opened"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "tools",
+            "dna_Type": "FirefighterAxe_Green"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "material",
+            "dna_Type": "ShelterKit"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "valuable",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "misc",
+            "dna_Type": ""
+        }
+    ]
+}
