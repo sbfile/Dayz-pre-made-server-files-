@@ -1,0 +1,28 @@
+{
+    "m_Admins": [
+        {
+            "m_PlainID": "ExampleSteamID",
+            "m_Name": "ExampleAdminName",
+            "m_permissions": {
+                "m_CanUseServerConfig": 1,
+                "m_CanUsePlayersBankData": 1,
+                "m_CanUsePlayersClans": 1,
+                "m_CanUseMiscServer": 1,
+                "m_CanAddAdmins": 1,
+                "m_CanIgnoreNamePermission": 0
+            }
+        },
+        {
+            "m_PlainID": "AnotherExampleSteamID",
+            "m_Name": "ExampleAdminName",
+            "m_permissions": {
+                "m_CanUseServerConfig": 1,
+                "m_CanUsePlayersBankData": 1,
+                "m_CanUsePlayersClans": 1,
+                "m_CanUseMiscServer": 1,
+                "m_CanAddAdmins": 1,
+                "m_CanIgnoreNamePermission": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "weaponResources": [
+        "MetalPlate",
+        "MetalWire",
+        "Nail",
+        "BarbedWire"
+    ],
+    "boxResources": [
+        "Netting",
+        "DuctTape",
+        "Paper"
+    ],
+    "clothingResources": [
+        "Netting",
+        "Fabric",
+        "Rag",
+        "Rope"
+    ],
+    "edibleResources": [
+        "GardenLime",
+        "Rag"
+    ],
+    "defaultResource": [
+        "Paper",
+        "Rag"
+    ],
+    "coinCreationInterval": 900,
+    "coin": [
+        "HM_Bitcoin"
+    ],
+    "gpuDamage": 100,
+    "arcadeWinChance": 0.5,
+    "arcadeBlackList": [
+        "Paper",
+        "HM_Bitcoin",
+        "PunchedCard"
+    ],
+    "Grade1Print1Item": "BatteryCharger",
+    "Grade1Print2Item": "CableReel",
+    "Grade1Print3Item": "CombatKnife",
+    "Grade1Print4Item": "DryBag_Black",
+    "Grade1Print5Item": "FishingRod",
+    "Grade1Print6Item": "Flashlight",
+    "Grade1Print7Item": "Megaphone",
+    "Grade1Print8Item": "PersonalRadio",
+    "Grade1Print9Item": "Screwdriver",
+    "Grade1Print10Item": "Spotlight",
+    "Grade2Print1Item": "GP5GasMask_Filter",
+    "Grade2Print2Item": "GorkaHelmetVisor",
+    "Grade2Print3Item": "AK_RailHndgrd",
+    "Grade2Print4Item": "AK_PlasticBttstck",
+    "Grade2Print5Item": "M4_PlasticHndgrd",
+    "Grade2Print6Item": "M4_OEBttstck",
+    "Grade2Print7Item": "Headtorch_Black",
+    "Grade2Print8Item": "Headtorch_Grey",
+    "Grade2Print9Item": "UniversalLight",
+    "Grade2Print10Item": "TLRLight",
+    "Grade3Print1Item": "ACOGOptic",
+    "Grade3Print2Item": "BUISOptic",
+    "Grade3Print3Item": "HuntingOptic",
+    "Grade3Print4Item": "KobraOptic",
+    "Grade3Print5Item": "PistolOptic",
+    "Grade3Print6Item": "Mag_Glock_15Rnd",
+    "Grade3Print7Item": "GPSReceiver",
+    "Grade3Print8Item": "NVGHeadstrap",
+    "Grade3Print9Item": "GP5GasMask",
+    "Grade3Print10Item": "GorkaHelmet_Black",
+    "Grade4Print1Item": "Codelock",
+    "Grade4Print2Item": "PistolSuppressor",
+    "Grade4Print3Item": "M4_Suppressor",
+    "Grade4Print4Item": "AK_Suppressor",
+    "Grade4Print5Item": "NVGoggles",
+    "Grade4Print6Item": "Glock19",
+    "Grade4Print7Item": "Crossbow_Black",
+    "Grade4Print8Item": "Ammo_HuntingBolt",
+    "Grade4Print9Item": "ClaymoreMine",
+    "Grade4Print10Item": "Lockpick"
+}

@@ -1,0 +1,7 @@
+{
+    "BlacklistedVehicles": [
+        "BlacklistedCar",
+        "AnotherVehicle",
+        "AnotherTruck"
+    ]
+}

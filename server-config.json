@@ -1,0 +1,158 @@
+{
+    "ModVersion": "2.11",
+    "MenuDelay": 1.0,
+    "startCurrency": 0,
+    "maxCurrency": 10000,
+    "IsClanAccountActive": 1,
+    "CostsToCreateClan": 5000,
+    "CostsToInviteAnPlayer": 1000,
+    "MaxClanAccountLimit": 200000,
+    "MaxPlayersInClan": -1,
+    "MinAmountToTransfer": 1000,
+    "TransferfeesInProcent": 3,
+    "IsRobEventActive": 1,
+    "MinPlayersForRob": 5,
+    "MinMoneyForRob": 1000,
+    "MaxMoneyForRob": 5000,
+    "TimeInSecToRobATM": 120,
+    "RobMessagesActive": 1,
+    "PayCheckValue": 500,
+    "PayCheckTickTime": 20,
+    "IsPayCheckMessageActive": 1,
+    "CanAddPayCheckInSafezone": 1,
+    "PayCheckMessage": "%Amount% added to your bank account! stay active to earn more money!",
+    "MinPlayersForPayCheck": 1,
+    "CanAddToFullAcc": 0,
+    "NeedsBankCardToOpenMenu": 0,
+    "m_LoggingSettings": {
+        "m_LogMode": 1,
+        "m_LogDepositOwnBank": 1,
+        "m_LogWithdraw": 1,
+        "m_LogClanDeposit": 1,
+        "m_LogClanWithdraw": 1,
+        "m_LogCreateClanAccount": 1,
+        "m_LogDeleteClanAccount": 1,
+        "m_LogInviteMember": 1,
+        "m_LogUpdatePermission": 1
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 0,
+        "m_WebhookURL": "Here the full URL!",
+        "m_LogDepositToDiscord": 0,
+        "m_LogWithdrawToDiscord": 0,
+        "m_LogClanDepositToDiscord": 0,
+        "m_LogClanWithdrawToDiscord": 0,
+        "m_LogClanCreateToDiscord": 0,
+        "m_LogClanInviteMemberToDiscord": 0,
+        "m_LogClanRemoveMemberToDiscord": 0,
+        "m_LogClanUpdatePermissionToDiscord": 0,
+        "m_LogClanKickMemberToDiscord": 0,
+        "m_AdminLogUpdateServerConfig": 0,
+        "m_AdminLogUpdatePlayerData": 0,
+        "m_AdminLogUpdateClanData": 0,
+        "m_AdminLogUseMisc": 0
+    },
+    "ATM": [
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3689.35009765625,
+                402.0119934082031,
+                5988.02001953125
+            ],
+            "Direction": [
+                -110.0,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                11475.599609375,
+                342.9840087890625,
+                11320.0
+            ],
+            "Direction": [
+                210.0,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3433.219970703125,
+                192.7050018310547,
+                13063.298828125
+            ],
+            "Direction": [
+                -114.01000213623047,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 1,
+            "RobMessage": "ATM Gets Robbed near Novaya Petrovka from Player: %PlayerName%"
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                6045.77001953125,
+                300.760009765625,
+                7841.39013671875
+            ],
+            "Direction": [
+                52.9900016784668,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 1,
+            "RobMessage": "ATM Gets Robbed near Stary Sobor from Player: %PlayerName%"
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                6597.81005859375,
+                8.300000190734864,
+                2423.64990234375
+            ],
+            "Direction": [
+                133.0,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 1,
+            "RobMessage": "ATM Gets Robbed near Chernogorsk from Player: %PlayerName%"
+        }
+    ],
+    "BankingCurrency": [
+        {
+            "CurrencyName": "MoneyRuble100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "MoneyRuble50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "MoneyRuble25",
+            "CurrencyValue": 25
+        },
+        {
+            "CurrencyName": "MoneyRuble10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "MoneyRuble5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "MoneyRuble1",
+            "CurrencyValue": 1
+        }
+    ]
+}
